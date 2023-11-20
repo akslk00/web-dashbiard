@@ -6,4 +6,5 @@ def main():
     st.title('헬로우')
 
 if __name__=='__main__':
+    print(__name__)
     main()
